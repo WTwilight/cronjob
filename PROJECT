@@ -1,0 +1,3 @@
+version: "1"
+domain: wtwilight.cronjob.io
+repo: github.com/WTwilight/cronjob
